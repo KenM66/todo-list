@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "task": "Get water from well",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Fix axle on horse carriage",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Shine shoes",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Mine coal for fire",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Churn butter",
+    "complete": false
+  }]
